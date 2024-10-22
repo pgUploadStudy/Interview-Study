@@ -1,4 +1,4 @@
-# 인성 질문 리스트
+# 💯인성 질문 리스트
 
 <details>
 <summary>예시</summary>
