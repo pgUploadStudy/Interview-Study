@@ -65,7 +65,7 @@
 ```bash
 .
 ├── Interview Sheet # Root 레포지토리
-│   ├── 직무 질문
+│   ├── Tech Question # 직무 관련 폴더
 │   │   └── Be-HinD # 개인 피드백 정리
 │   │   │   └── README.md
 │   │   └── Chanhuk # 개인 피드백 정리
